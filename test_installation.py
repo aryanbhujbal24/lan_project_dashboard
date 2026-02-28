@@ -1,0 +1,1 @@
+# Installation verification script here
